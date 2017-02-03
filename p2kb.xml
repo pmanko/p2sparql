@@ -1,0 +1,550 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.w3.org/ns/org#" > 
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6880">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6845">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6743">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6776">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6888">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6831">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6876">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6818">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein4426">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6756">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6839">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6804">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6810">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6726">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6786">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6766">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6795">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6824">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6844">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6881">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6744">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6889">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6819">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6877">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein5195">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6830">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1485">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6719">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein4427">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6858">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6755">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6730">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6805">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6739">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6775">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6811">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6785">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6838">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6796">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6825">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6765">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6788">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6700">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6694">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6843">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6864">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1796">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6833">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6780">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6710">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6760">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein4408">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6812">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6802">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6774">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6738">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6731">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6754">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6718">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6874">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6768">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6822">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6741">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6793">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1021">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein5046">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6787">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1190">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6865">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6842">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6695">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6753">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6875">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6832">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6732">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6737">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6803">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6773">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6813">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6767">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6794">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6727">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6742">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein3571">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6823">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6757">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6852">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6782">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1191">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6752">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6716">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6814">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6800">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6828">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6762">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6696">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6747">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6772">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6791">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6820">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6722">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6872">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6799">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein653">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6736">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6884">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6779">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6715">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6751">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6781">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1750">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6758">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6697">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6720">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6815">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6761">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6771">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6829">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6801">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6789">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6701">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein964">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6821">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6792">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6740">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1984">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6721">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6735">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6873">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1757">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6854">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6853">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6759">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6797">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6750">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6714">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein3562">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6826">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein2917">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein1437">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6850">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6778">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6837">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6847">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6840">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6745">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6816">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6764">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6724">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6806">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6879">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6867">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6882">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein4424">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6870">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein5194">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein4120">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6734">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6827">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein5182">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6817">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6851">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6713">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6836">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6777">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6746">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6841">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6846">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6763">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein5788">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6703">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6723">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6878">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6699">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6866">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6807">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6790">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6883">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein4425">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6798">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6733">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.reactome.org/biopax/49/48887#Protein6871">
+    <j.0:memberOf rdf:resource="http://identifiers.org/reactome/REACT_578.8"/>
+  </rdf:Description>
+</rdf:RDF>
